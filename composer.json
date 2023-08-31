@@ -1,0 +1,16 @@
+{
+    "name": "amirtheiii/presentation",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Amir Aghighi"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^10.21"
+    }
+}
